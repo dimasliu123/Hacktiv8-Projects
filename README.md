@@ -57,7 +57,6 @@
 	- 2.) Applying a Machine Learning algorithm to predict a class of galaxy (binary).
 
 **Week 2**
-- 
 - LC02 : A heart disease datasets, applying tree-based algorithm to predict if someone will die or not.
 - Milestone 1 : A bank loan datasets, applying machine learning to predict if someone is valid to have a loan or not, applied multiple types of supervised machine learning algorithms to evaluate each performance of the model. Applying Grid Search cross-validation. 
 
