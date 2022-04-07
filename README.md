@@ -11,7 +11,7 @@
 2. 02 : Machine Learning and Machine Learning Deployment :
 	- Feature Selection, Feature Engineering, and cross-validation. 
 	- Linear Regression,
-	- Logistic Regression
+	- Logistic Regression,
 	- Decision Tree,
 	- SVM (Support Vector Machine), {RBF & Linear}
 	- Ensemble Learning, (Random Forest, Gradient Boosting, AdaBoost, XGBoost[Xtreme Gradient Boosting])
